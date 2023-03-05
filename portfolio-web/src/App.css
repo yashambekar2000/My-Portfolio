@@ -1,0 +1,17 @@
+body{
+  background-image: linear-gradient(to bottom right, rgb(17, 17, 154), black);
+}
+
+.optiondiv{
+  width: 150px;
+  height: 300px;
+  position: fixed;
+  top: 200px;
+  left: 1000px;
+
+
+}
+.optiondiv a{
+  color: white;
+  text-decoration: none;
+}
